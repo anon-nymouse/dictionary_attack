@@ -1,0 +1,11 @@
+amd
+username
+password
+foo
+bar
+etc
+test
+test
+test
+test
+admin
